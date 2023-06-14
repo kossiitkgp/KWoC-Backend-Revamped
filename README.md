@@ -1,3 +1,5 @@
+Project moved to `KWoC-Backend` repo under the branch `v2-dev`.
+
 # Building and Running
 
 - Please use go 1.19 or check `go.mod` for the required version
